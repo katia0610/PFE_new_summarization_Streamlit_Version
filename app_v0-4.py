@@ -84,7 +84,7 @@ if "resumes_per_file" not in st.session_state:
 
 uploaded_files = st.sidebar.file_uploader(
     "Choose your files ",
-    type=["pdf",".mp3", ".wav", ".ogg", ".flac", ".m4a",".mp4", ".avi", ".mov", ".mkv"],
+    type=["pdf",".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".mp3", ".wav", ".ogg", ".flac", ".m4a", ".mp4", ".avi", ".mov", ".mkv"],
     accept_multiple_files=True,
     key=f"file_uploader_{st.session_state['file_uploader_key']}",
 )
