@@ -38,7 +38,7 @@ After validating this POC, the project was **redeveloped as a full production ap
 * **React JS** frontend for a professional user interface
 * **User authentication system** for secure access
 
-➡️ **Final repository:** [Multimodal News Summarizer (Frontend + Backend)](https://github.com/katia0610/PFE_new_summarization)
+➡️ **Final repository:** [Multimodal News Summarizer (Frontend + Backend)](https://github.com/katia0610/PFE_news_summarization)
 
 ---
 
@@ -59,8 +59,8 @@ After validating this POC, the project was **redeveloped as a full production ap
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/katia0610/PFE_new_summarization_Streamlit_Version.git
-cd PFE_new_summarization_Streamlit_Version
+git clone https://github.com/katia0610/PFE_news_summarization_Streamlit_Version.git
+cd PFE_news_summarization_Streamlit_Version
 ```
 
 2. **Install dependencies**
@@ -80,7 +80,7 @@ streamlit run app_v0-4.py
 ## 📝 Notes
 
 ⚠️ This version is no longer maintained as it was a **prototype phase**.
-Please refer to the [final project repository](https://github.com/katia0610/PFE_new_summarization) for the **full production-ready application**.
+Please refer to the [final project repository](https://github.com/katia0610/PFE_news_summarization) for the **full production-ready application**.
 
 ---
 
